@@ -9,7 +9,6 @@ type BodyProps = {
 
 export default function Body({ onPartClick }: BodyProps) {
   return (
-    // تنظیمات Flexbox برای وسط‌چین کردن عمودی و افقی
     <div className="flex items-center justify-center h-screen">
       <div className="flex flex-col items-center">
         <div onClick={() => onPartClick("Head")}>
