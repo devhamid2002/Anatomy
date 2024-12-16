@@ -8,7 +8,7 @@ To get started with the project locally, clone the repository and follow the ste
    ```
 2. Navigate to the project directory:
    ```bash
-   cd kishro141
+   cd Anatomy
    ```
 3. Install dependencies:
    ```bash
